@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- <alternatives>
+		<class>br.com.caelum.calculadora.SimuladorCalculoAlternativo</class>
+	</alternatives> -->
+</beans>
